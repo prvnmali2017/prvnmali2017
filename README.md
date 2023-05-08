@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Praveen, Friends call me Devops guy in DOWN UNDER </h1>
+<h1 align="center"> Hi there 👋 I'm Praveen </h1>
 <h2 align="center"> Cloud Solutions Architect </h2>
 <p align="center"> ⚡ Welcome to my Github profile! I am a dedicated and passionate Cloud Solutions Architect and DevOps specialist with a deep understanding of cloud computing technologies and a proven track record of designing and implementing successful solutions. I love <strong>contributing</strong> to open source projects and <strong>creating</strong> new things!</p>
 <hr>
