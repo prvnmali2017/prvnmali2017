@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/prvnmali" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://medium.com/@praveenmali" target="_blank" rel="noopener">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://www.credly.com/users/praveen-mali/badges" target="_blank">
+    <span>Credly Profile</span>
   </a>
 </p>
