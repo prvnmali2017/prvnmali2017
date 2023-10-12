@@ -11,6 +11,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
   </a>
   <a href="https://www.credly.com/users/praveen-mali/badges" target="_blank">
-    <span> Credly Profile </span>
+    <span>  Credly  </span>
   </a>
 </p>
