@@ -1,16 +1,18 @@
-<h1 align="center">Hello! I'm Praveen 👋</h1>
-<h2 align="center">Cloud Solutions Architect</h2>
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<h2 align="center">Praveen Mali - Cloud Solutions Architect & DevOps Enthusiast</h2>
 
-<p align="center">Welcome to my GitHub profile. I'm an inquisitive Cloud Solutions Architect and DevOps enthusiast with a genuine passion for learning. I possess a deep understanding of cloud technologies and a track record of creating effective solutions. I'm here to explore and contribute to open source projects, constantly seeking new knowledge and fresh ideas!</p>
+<p align="center">Hi there! I'm Praveen Mali, a curious Cloud Solutions Architect and passionate DevOps enthusiast. With a keen eye for innovation and a relentless drive for improvement, I dive deep into cloud technologies to craft impactful solutions.</p>
+
+<p align="center">My journey revolves around continuous learning and exploration of new horizons. I thrive on challenges, always seeking opportunities to contribute to open-source projects and collaborate with like-minded individuals.</p>
 
 <hr>
 
-<h3 align="center">Connect</h3>
+<h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/prvnmali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.credly.com/users/praveen-mali/badges" target="_blank">
-    <span>  Credly  </span>
+    <span style="font-size: 20px;">Credly</span>
   </a>
 </p>
