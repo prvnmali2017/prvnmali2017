@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
-<h2 align="center">Praveen Mali - Cloud Solutions Architect, MLOps & Generative Enthusiast</h2>
+<h2 align="center">Praveen Mali - Cloud Solutions Architect, MLOps & Generative AI Enthusiast</h2>
 
-<p align="center">Hi there! I'm Praveen Mali, a curious Cloud Solutions Architect with a passion for MLOps and Generative technologies. With a keen eye for innovation and a relentless drive for improvement, I dive deep into cloud technologies to craft impactful solutions.</p>
+<p align="center">Hi there! I'm Praveen Mali, a curious Cloud Solutions Architect with a passion for MLOps and Generative AI technologies. With a keen eye for innovation and a relentless drive for improvement, I dive deep into cloud technologies to craft impactful solutions.</p>
 
 <p align="center">My journey revolves around continuous learning and exploration of new horizons. I thrive on challenges, always seeking opportunities to contribute to open-source projects and collaborate with like-minded individuals.</p>
 
